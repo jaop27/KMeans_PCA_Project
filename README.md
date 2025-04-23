@@ -1,5 +1,3 @@
-# KMeans_PCA_Project
-
 # K-Means, Elbow Method, and PCA Project
 A beginner ML project to cluster online retail data.
 
